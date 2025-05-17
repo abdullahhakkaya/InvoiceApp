@@ -1,0 +1,14 @@
+/Users/abdullah/Desktop/C#/14/proje2/InvoiceApp/bin/Debug/net9.0/InvoiceApp
+/Users/abdullah/Desktop/C#/14/proje2/InvoiceApp/bin/Debug/net9.0/InvoiceApp.deps.json
+/Users/abdullah/Desktop/C#/14/proje2/InvoiceApp/bin/Debug/net9.0/InvoiceApp.runtimeconfig.json
+/Users/abdullah/Desktop/C#/14/proje2/InvoiceApp/bin/Debug/net9.0/InvoiceApp.dll
+/Users/abdullah/Desktop/C#/14/proje2/InvoiceApp/bin/Debug/net9.0/InvoiceApp.pdb
+/Users/abdullah/Desktop/C#/14/proje2/InvoiceApp/obj/Debug/net9.0/InvoiceApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullah/Desktop/C#/14/proje2/InvoiceApp/obj/Debug/net9.0/InvoiceApp.AssemblyInfoInputs.cache
+/Users/abdullah/Desktop/C#/14/proje2/InvoiceApp/obj/Debug/net9.0/InvoiceApp.AssemblyInfo.cs
+/Users/abdullah/Desktop/C#/14/proje2/InvoiceApp/obj/Debug/net9.0/InvoiceApp.csproj.CoreCompileInputs.cache
+/Users/abdullah/Desktop/C#/14/proje2/InvoiceApp/obj/Debug/net9.0/InvoiceApp.dll
+/Users/abdullah/Desktop/C#/14/proje2/InvoiceApp/obj/Debug/net9.0/refint/InvoiceApp.dll
+/Users/abdullah/Desktop/C#/14/proje2/InvoiceApp/obj/Debug/net9.0/InvoiceApp.pdb
+/Users/abdullah/Desktop/C#/14/proje2/InvoiceApp/obj/Debug/net9.0/InvoiceApp.genruntimeconfig.cache
+/Users/abdullah/Desktop/C#/14/proje2/InvoiceApp/obj/Debug/net9.0/ref/InvoiceApp.dll
